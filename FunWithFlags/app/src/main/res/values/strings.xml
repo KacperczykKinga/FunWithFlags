@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fun With Flags</string>
+    <string name="losuj">Losuj flage</string>
+    <string name="quiz">Wielki Quiz</string>
+    <string name="powtorz">Powtórz sobie</string>
+    <string name="wiedza">Sprawdź swoja wiedzę</string>
+    <string name="jaka_flaga">Jakie państwo ma taką flagę?</string>
+    <string name="sprawdz">Sprawdź</string>
+    <string name="podaj">Podaj państwo</string>
+    <string name="answer"></string>
+    <string name="kolejny">Kolejny</string>
+</resources>
